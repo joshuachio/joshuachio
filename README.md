@@ -1,4 +1,6 @@
-### Hello I'm Joshua Chio, undergraduate student at Georgia Institute of Technology. I host my collection of personal projects on this account. Reach out to me below!
+### Hello
+
+I'm Joshua Chio, undergraduate student at Georgia Institute of Technology. I host my collection of personal projects on this account. Reach out to me below!
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/joshua-chio/" target="_blank">
